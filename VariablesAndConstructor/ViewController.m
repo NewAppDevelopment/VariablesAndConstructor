@@ -35,4 +35,8 @@
     
 }
 
+-(void)myNewMethodAdded{
+    
+}
+
 @end
