@@ -31,4 +31,8 @@
     
 }
 
+-(void)simpleMethodAdded{
+    
+}
+
 @end
